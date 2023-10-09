@@ -1,1 +1,3 @@
-# Студент-химик
+# Student-chemist
+### Education
+HSE, Bachelor, Facultet of Chemistry
